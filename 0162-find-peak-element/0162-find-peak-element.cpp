@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
+        // when low == high, that is the peak element
         int n = nums.size();
         int low = 0, high = n - 1;
         while(low < high){
