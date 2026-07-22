@@ -4,7 +4,8 @@ public:
         int n = nums.size();
         long long sum = 0;
         for(int i = 0;i<n;i++){
-            sum+= ceil((double)nums[i] / val);
+            //sum+= ceil((double)nums[i] / val);
+            sum += 1LL * (nums[i]+ val - 1)/val;
             if(sum > threshold) return false;
         }
         return sum <= threshold;
