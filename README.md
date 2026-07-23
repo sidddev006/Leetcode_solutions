@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sidddev006/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidddev006/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sidddev006/Leetcode_solutions/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
