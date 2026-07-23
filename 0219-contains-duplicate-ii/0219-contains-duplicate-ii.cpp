@@ -4,8 +4,10 @@ public:
         int n = nums.size();
         unordered_map<int, int> mpp;
         for(int i = 0;i<n;i++){
-            if(mpp.count(nums[i]) && i - mpp[nums[i]] <= k) return true;
-            mpp[nums[i]] = i; 
+            if(mpp.find(nums[i])!= mpp.end()){
+                if(abs(i - mpp[nums[i]]) <= k) return true;
+            }
+            mpp[nums[i]] = i;
         }
         return false;
     }
