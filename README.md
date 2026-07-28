@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sidddev006/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/sidddev006/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sidddev006/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sidddev006/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
