@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sidddev006/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sidddev006/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidddev006/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
