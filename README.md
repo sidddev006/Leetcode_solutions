@@ -108,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sidddev006/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sidddev006/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/sidddev006/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sidddev006/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sidddev006/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
