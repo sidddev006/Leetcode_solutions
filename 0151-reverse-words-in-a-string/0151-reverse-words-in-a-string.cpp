@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Time complexity is O(n) and space complexity is O(n)
     string reverseWords(string s) {
         vector<string> words;
         int i = 0, n = s.length();
