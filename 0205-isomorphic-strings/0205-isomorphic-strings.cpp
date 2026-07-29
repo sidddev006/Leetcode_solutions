@@ -1,17 +1,21 @@
 class Solution {
 public:
-    // Brute force. time complexity is 0(n log n) and space complexity is O(n)
+    //This is the optimal solution with time complexity O(n) and space complexity O(1)
     bool isIsomorphic(string s, string t) {
-        map<char, char> mpp1;
-        map<char, char> mpp2;
-        if(s.length() != t.length()) return false;
-        for(int i = 0;i<s.size();i++){
-            if(mpp1.count(s[i]) == 0 && mpp2.count(t[i]) == 0){
-                mpp1[s[i]] = t[i];
-                mpp2[t[i]] = s[i];
+        int ST[256];
+        int TS[256];
+        fill(ST, ST+256, -1);
+        fill(TS, TS+256, -1);
+        int n1 = s.size();
+        int n2 = t.size();
+        if(n1 != n2) return false;
+        for(int i = 0;i<n1;i++){
+            if(ST[s[i]] == -1 && TS[t[i]] == -1){
+                ST[s[i]] = t[i];
+                TS[t[i]] = s[i];
             }
             else{
-                if(mpp1[s[i]] != t[i] || mpp2[t[i]] != s[i]) return false;
+                if(ST[s[i]] != t[i] || TS[t[i]] != s[i]) return false;
             }
         }
         return true;
