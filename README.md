@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
