@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1901-find-a-peak-element-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
@@ -271,5 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
