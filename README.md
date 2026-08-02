@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidddev006/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sidddev006/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sidddev006/Leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidddev006/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sidddev006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sidddev006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
