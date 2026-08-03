@@ -6,12 +6,10 @@ public:
         while(i >= 0 && s[i] == ' '){
             i--;
         }
-        string word = "";
         int count = 0;
         while(i >= 0 && s[i] != ' '){
-            word += s[i];
             i--; count++;
         }
-        return word.length();
+        return count;
     }
 };
