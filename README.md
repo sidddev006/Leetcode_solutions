@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidddev006/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
