@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidddev006/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/sidddev006/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sidddev006/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidddev006/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sidddev006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/sidddev006/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
