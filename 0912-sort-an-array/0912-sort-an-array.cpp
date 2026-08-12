@@ -1,28 +1,33 @@
 class Solution {
 public:
+    vector<int> ans;
     void Merge(vector<int>& arr, int low, int mid, int high){
-        int left = low, right = mid+1;
-        vector<int> ans;
+        int left = low, right = mid+1, k = low;
+        
         while(left <= mid && right <= high){
             if(arr[left] <= arr[right]){
-                ans.push_back(arr[left]);
+                ans[k] = arr[left];
                 left++;
+                k++;
             }
             else {
-                ans.push_back(arr[right]);
+                ans[k] = arr[right];
                 right++;
+                k++;
             }
         } 
         while(left <= mid){
-            ans.push_back(arr[left]);
+            ans[k] = arr[left];
             left++;
+            k++;
         }
         while(right <= high){
-            ans.push_back(arr[right]);
+            ans[k] = arr[right];
             right++;
+            k++;
         }
         for(int i = low;i<=high;i++){
-            arr[i] = ans[i-low];
+            arr[i] = ans[i];
         }
     }
     void MergeSort(vector<int>& arr, int low, int high){
@@ -34,6 +39,7 @@ public:
     }
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
+        ans.resize(n);
         MergeSort(nums, 0, n-1);
         return nums;
     }
