@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1901-find-a-peak-element-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidddev006/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1903-largest-odd-number-in-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -439,16 +444,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sidddev006/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
