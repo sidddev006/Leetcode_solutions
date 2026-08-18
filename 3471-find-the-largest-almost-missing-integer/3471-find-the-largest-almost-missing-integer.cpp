@@ -15,7 +15,7 @@ public:
         [7,9,8,5,3,2,8], n = 7, k = 5
         the subarrays -> [7,9,8,5,3], [9,8,5,3,2], [8,5,3,2,8]
     */
-    /* This is my first attempt it takes O(n.k) time complexity*/
+    /* This is my first attempt it takes O(n.k) time complexity
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
         int n_sub = n-k+1;
@@ -39,6 +39,28 @@ public:
         }
         return maxi;
     }
-    //*/
+    */
+    //This is the second approach which uitlizes the constraint
+    int largestInteger(vector<int>& nums, int k) {
+        int n = nums.size();
+        int maxi = -1;
+
+        for(int val = 50; val >=0; val--){
+            if(maxi != -1) break;
+            int windowSum = 0;
+            int windowsContaining = 0;
+            for(int i = 0;i<n;i++){
+                if(nums[i] == val) windowSum++;
+                if(i >= k){
+                    if(nums[i-k] == val) windowSum--;
+                }
+                if(i >= k-1){
+                    if(windowSum > 0) windowsContaining++;
+                }
+            }
+            if(windowsContaining == 1) maxi = val;
+        }
+        return maxi;
+    }
     
 };
