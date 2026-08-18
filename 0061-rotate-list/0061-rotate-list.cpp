@@ -19,6 +19,7 @@ k = 2 % 5 =
 */
 class Solution {
 public:
+/* This is my first attempt 
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL || head->next == NULL || k == 0) return head;
         ListNode* temp = head;
@@ -43,5 +44,33 @@ public:
             k--;
         }
         return head;
+    }*/
+    //This is my second attempt
+    //This is the optimal approach of this problem ^_^
+    ListNode* rotateRight(ListNode* head, int k) {
+        int n = 1;
+        if(head == NULL || head->next == NULL || k==0) return head;
+        ListNode* temp = head;
+        ListNode* tail = NULL;
+        while(temp->next){
+            n++;
+            temp = temp->next;
+        }
+        tail = temp;
+        k = k%n;
+        if(k==0) return head;
+        //The newHead position will be n-k+1
+        //And the newTail position will be n-k
+        temp = head;
+        int pos = 1;
+        while(pos < n-k){
+            pos++;            
+            temp = temp->next;
+        }        
+        ListNode* newTail = temp;
+        ListNode* newHead = temp->next;            
+        newTail->next = nullptr;
+        tail->next = head;
+        return newHead;
     }
 };
