@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+    ListNode* merge(ListNode* list1, ListNode* list2) {
         ListNode* headm = new ListNode(0);
         ListNode* merge = headm;
         ListNode* temp1 = list1;
@@ -45,10 +45,19 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
         if(n == 0) return NULL;
-        ListNode* merged = lists[0];
-        for(int i = 1;i<n;i++){
-            merged = mergeTwoLists(merged, lists[i]);
+        while(n > 1){
+            int newSize = 0;
+            for(int i = 0;i<n;i+=2){
+                if(i+1 < n){
+                    lists[newSize] = merge(lists[i], lists[i+1]);
+                }
+                else{
+                    lists[newSize] = lists[i];
+                }
+                newSize++;
+            }
+            n = newSize;
         }
-        return merged;
+        return lists[0];
     }
 };
