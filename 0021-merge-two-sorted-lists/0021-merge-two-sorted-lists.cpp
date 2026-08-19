@@ -27,6 +27,7 @@ public:
                 merge= merge->next;
             }
         }
+        /* This can be shortened by writing
         while(temp1){
             merge->next = temp1;
             temp1 = temp1->next;
@@ -37,6 +38,8 @@ public:
             temp2 = temp2->next;
             merge= merge->next;
         }
-        return headm->next;
+        */
+        merge->next = temp1 ? temp1 : temp2; // this works as either of them will be null after the initial while loop that i am running.
+        return headm->next;//This should be headm->next as headm contains a value 0 which will disrupt the entire merged linked list
     }
 };
