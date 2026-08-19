@@ -9,7 +9,7 @@ public:
 */
     bool isVowel(char ch){
         ch = tolower(ch);
-        return string("aeiou").find(ch) != string::npos;
+        return ch == 'a'||ch == 'e'||ch == 'i'||ch == 'o'||ch == 'u';
     }
     string reverseVowels(string s) {
         int n = s.size();
