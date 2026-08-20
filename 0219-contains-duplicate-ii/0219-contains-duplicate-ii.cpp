@@ -1,18 +1,11 @@
 class Solution {
 public:
-/*
-Dry run of testcase :- [1,2,3,1] , k=3
-    left = 0, 
-*/
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        int n = nums.size();
-        unordered_set<int>window;
-        for(int i = 0;i<n;i++){
-            if(window.count(nums[i])) return true;
-            window.insert(nums[i]);
-            if(window.size() > k){
-                window.erase(nums[i-k]);
-            }
+        unordered_map<int, int> lastSeen; // value -> last index
+        for (int i = 0; i < nums.size(); i++) {
+            auto it = lastSeen.find(nums[i]);
+            if (it != lastSeen.end() && i - it->second <= k) return true;
+            lastSeen[nums[i]] = i;
         }
         return false;
     }
