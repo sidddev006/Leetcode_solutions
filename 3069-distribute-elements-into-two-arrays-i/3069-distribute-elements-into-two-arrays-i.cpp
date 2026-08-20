@@ -20,7 +20,9 @@ II> nums - [5,4,3,8], arr1 -> [5], arr2->[4]
             if(arr1.back() > arr2.back()) arr1.push_back(nums[i]);
             else arr2.push_back(nums[i]);
         }
-        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
+        for(int i = 0;i<arr2.size();i++){
+            arr1.push_back(arr2[i]);
+        }
         return arr1;
     }
 };
