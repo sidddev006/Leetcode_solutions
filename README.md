@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sidddev006/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sidddev006/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sidddev006/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sidddev006/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidddev006/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sidddev006/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sidddev006/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sidddev006/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sidddev006/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sidddev006/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidddev006/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
