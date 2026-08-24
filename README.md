@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sidddev006/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0137-single-number-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sidddev006/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sidddev006/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0148-sort-list) |
