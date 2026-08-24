@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sidddev006/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sidddev006/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sidddev006/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/sidddev006/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/sidddev006/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -567,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
