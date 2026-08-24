@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1901-find-a-peak-element-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -563,4 +566,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
