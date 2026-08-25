@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddev006/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/sidddev006/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddev006/Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sidddev006/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/sidddev006/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/sidddev006/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sidddev006/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
