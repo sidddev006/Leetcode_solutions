@@ -596,11 +596,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidddev006/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sidddev006/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/sidddev006/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sidddev006/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -716,9 +718,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidddev006/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidddev006/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
