@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sidddev006/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/sidddev006/Leetcode_solutions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/sidddev006/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/sidddev006/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sidddev006/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidddev006/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/sidddev006/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sidddev006/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
