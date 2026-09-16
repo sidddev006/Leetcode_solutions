@@ -811,5 +811,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/sidddev006/Leetcode_solutions/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/sidddev006/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sidddev006/Leetcode_solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sidddev006/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
