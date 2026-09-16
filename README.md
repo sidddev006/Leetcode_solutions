@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/sidddev006/Leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/sidddev006/Leetcode_solutions/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/sidddev006/Leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sidddev006/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sidddev006/Leetcode_solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
