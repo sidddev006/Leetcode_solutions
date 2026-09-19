@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sidddev006/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sidddev006/Leetcode_solutions/tree/master/1563-stone-game-v) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sidddev006/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sidddev006/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
 | ------- |
