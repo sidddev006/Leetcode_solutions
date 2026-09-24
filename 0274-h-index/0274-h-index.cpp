@@ -2,13 +2,11 @@ class Solution {
 public:
     int hIndex(vector<int>& citations) {
         int n = citations.size();
-        for(int h = n; h>=0;h--){
-            int count = 0;
-            for(int j = 0; j<n;j++){
-                if(citations[j] >= h) count++;
-            }
-            if(count >= h) return h;
+        sort(citations.begin(), citations.end());
+        int ans = 0;
+        for(int h = 1; h<=n;h++){
+            if(citations[n-h] >= h) ans = max(ans, h);
         }
-        return 0;
+        return ans;
     }
 };
