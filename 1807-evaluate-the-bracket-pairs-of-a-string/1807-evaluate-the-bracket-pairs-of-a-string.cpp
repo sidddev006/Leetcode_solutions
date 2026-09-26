@@ -15,14 +15,15 @@ public:
                 bracket_open = true;
             }
             else if(s[i] == ')'){
-                resulting += key_value.find(key) != key_value.end() ? key_value[key] : "?";
+                auto it = key_value.find(key);
+                resulting += (it != key_value.end()) ? it->second : "?";
                 bracket_open = false;
                 key = "";
             }
             else if(bracket_open == true){
                 key+=s[i];
             }            
-            else if (bracket_open == false){
+            else {
                 resulting += s[i];
             }
         } 
