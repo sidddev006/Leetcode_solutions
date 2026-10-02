@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sidddev006/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/sidddev006/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/sidddev006/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sidddev006/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sidddev006/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [1096-brace-expansion-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Newton's Method
