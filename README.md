@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidddev006/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sidddev006/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sidddev006/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sidddev006/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidddev006/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sidddev006/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sidddev006/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sidddev006/Leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
