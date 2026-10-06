@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sidddev006/Leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sidddev006/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sidddev006/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidddev006/Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sidddev006/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidddev006/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sidddev006/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sidddev006/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sidddev006/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Combinatorics
 |  |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sidddev006/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
 |  |
@@ -969,4 +974,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sidddev006/Leetcode_solutions/tree/master/0455-assign-cookies) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
