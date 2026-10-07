@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sidddev006/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sidddev006/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sidddev006/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sidddev006/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/sidddev006/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sidddev006/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sidddev006/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Newton's Method
