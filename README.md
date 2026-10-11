@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/sidddev006/Leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidddev006/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidddev006/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sidddev006/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sidddev006/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3945-digit-frequency-score](https://github.com/sidddev006/Leetcode_solutions/tree/master/3945-digit-frequency-score) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sidddev006/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -548,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1005,4 +1012,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 <!---LeetCode Topics End-->
