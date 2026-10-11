@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-k-unique-subarrays-i">3988. Valid K-Unique Subarrays I</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/valid-k-unique-subarrays-i">4033. Valid K-Unique Subarrays I</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>You are also given a 2D integer array <code>queries</code>, where <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> represents the <span data-keyword="subarray-nonempty"><strong>subarray</strong></span> <code>nums[l<sub>i</sub>..r<sub>i</sub>]</code>.</p>
 
