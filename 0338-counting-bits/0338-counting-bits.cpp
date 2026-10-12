@@ -1,17 +1,12 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        vector<int>answers(n+1);
-        for(int i = 0; i<=n;i++){
-            int count = 0;
-            int j =i;
-            while(j!=0){
-                if(j & 1)count++;
-                j>>=1;
-            }
-            answers[i] = count;
+        vector<int>ans(n+1);
+        ans[0] = 0;
+        for(int i  =1; i<=n;i++){
+            ans[i] = ans[i/2] + (i&1);
         }
-        return answers;
+        return ans;
     }
 };
 
