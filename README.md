@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sidddev006/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sidddev006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sidddev006/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sidddev006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sidddev006/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sidddev006/Leetcode_solutions/tree/master/0282-expression-add-operators) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sidddev006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sidddev006/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/1922-count-good-numbers) |
