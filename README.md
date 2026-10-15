@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sidddev006/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/sidddev006/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidddev006/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Segment Tree
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidddev006/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Merge Sort
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sidddev006/Leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sidddev006/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddev006/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
