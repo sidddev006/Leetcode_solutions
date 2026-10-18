@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/sidddev006/Leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sidddev006/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sidddev006/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sidddev006/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sidddev006/Leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sidddev006/Leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sidddev006/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sidddev006/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sidddev006/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sidddev006/Leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sidddev006/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sidddev006/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidddev006/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -941,10 +946,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/1622-fancy-sequence) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidddev006/Leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Monotonic Queue
 |  |
@@ -964,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidddev006/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -974,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sidddev006/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sidddev006/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidddev006/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -1047,4 +1056,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sidddev006/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
