@@ -1,11 +1,11 @@
 class Solution {
 public:
     int duplicateNumbersXOR(vector<int>& nums) {
-        unordered_map<int, int> freq;
-        long long result = 0;
-        for(auto num: nums) freq[num]++;
-        for(auto &[key, value]: freq){
-            if(value == 2) result^= key; 
+        long long seen = 0;
+        int result = 0;
+        for(auto  num: nums){
+            if((seen >>num) & 1) result ^= num;
+            else seen |=  (1LL << num);
         }
         return result;
     }
