@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/sidddev006/Leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sidddev006/Leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/sidddev006/Leetcode_solutions/tree/master/4033-valid-k-unique-subarrays-i) |
 ## Binary Search
 |  |
