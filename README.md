@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sidddev006/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddev006/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sidddev006/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sidddev006/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sidddev006/Leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sidddev006/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sidddev006/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sidddev006/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sidddev006/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/sidddev006/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddev006/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddev006/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
